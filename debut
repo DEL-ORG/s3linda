@@ -1,0 +1,3 @@
+In this example, I've defined two services, 'webapp' and 'database,' each encapsulating a specific component of the application. The 'webapp' service relies on the 'database' service, ensuring a proper startup order. I've also employed a custom bridge network ('my_network') to facilitate communication between containers.
+
+This Docker Compose file reflects my proficiency in creating well-structured and scalable environments, ensuring the seamless deployment of applications on AWS.
