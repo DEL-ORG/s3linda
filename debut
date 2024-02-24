@@ -1,2 +1,11 @@
 In this example, I've defined two services, 'webapp' and 'database,' each encapsulating a specific component of the application. The 'webapp' service relies on the 'database' service, ensuring a proper startup order. I've also employed a custom bridge network ('my_network') to facilitate communication between containers.
 
+In short:
+
+Git is the tool, GitHub is the platform.
+Git is for managing versions, GitHub is for hosting and collaborating.
+You can use Git without GitHub, but you can't use GitHub without Git.
+Here's an analogy:
+
+Think of Git as a personal notebook where you track changes to your code.
+Think of GitHub as a public library where you can store your notebooks, share them with others, and collaborate on them together.
